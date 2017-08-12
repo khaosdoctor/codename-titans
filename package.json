@@ -1,0 +1,12 @@
+{
+  "name": "codename-titans",
+  "version": "1.0.0",
+  "description": "Greek titan names parser for codename",
+  "main": "index.js",
+  "repository": "https://github.com/khaosdoctor/codename-titans.git",
+  "author": "Lucas Santos <lhs.santoss@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@khaosdoctor/codename": "^1.0.0"
+  }
+}
